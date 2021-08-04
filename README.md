@@ -6,6 +6,7 @@ Here we published the codes, used in the paper.
 
 # Citation
 
+```
 @INPROCEEDINGS{9496036,
   author={Yerukalareddy, Dinesh Reddy and Pavlovskiy, Evgeniy},
   booktitle={2021 IEEE Ural-Siberian Conference on Computational Technologies in Cognitive Science, Genomics and Biomedicine (CSGB)}, 
@@ -14,4 +15,6 @@ Here we published the codes, used in the paper.
   volume={},
   number={},
   pages={380-384},
-  doi={10.1109/CSGB53040.2021.9496036}}
+  doi={10.1109/CSGB53040.2021.9496036}
+  }
+```
